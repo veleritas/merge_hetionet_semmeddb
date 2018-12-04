@@ -2,3 +2,5 @@ venv/
 .ipynb_checkpoints/
 
 data/semmeddb/raw/edges_7_metanode_slim.csv
+data/ontologies/drugbank_full.xml
+data/ontologies/MRCONSO.RRF
