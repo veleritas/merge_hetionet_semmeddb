@@ -4,3 +4,5 @@ venv/
 data/semmeddb/raw/edges_7_metanode_slim.csv
 data/ontologies/drugbank_full.xml
 data/ontologies/MRCONSO.RRF
+
+data/semmeddb/no_treats/semmeddb_no_treats_edges.tsv
