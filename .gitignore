@@ -7,3 +7,5 @@ data/ontologies/MRCONSO.RRF
 data/hetionet/raw/hetionet_edges.csv
 
 data/semmeddb/no_treats/semmeddb_no_treats_edges.tsv
+
+pipeline/merged_network/merged_hetionet_and_semmeddb_edges.tsv
